@@ -15,7 +15,7 @@ Inclui etapas detalhadas de limpeza, junção de tabelas e criação de colunas 
 ## Visualizações do Dashboard
 
 ### Página 1: Página Principal
-![Resumo de Vendas]([Visão Geral.JPG](https://github.com/gaiecks/Projeto-Power-BI-para-distribuidora-de-alimentos-/blob/main/Vis%C3%A3o%20Geral.JPG))
+![Resumo de Vendas](https://github.com/gaiecks/Projeto-Power-BI-para-distribuidora-de-alimentos-/blob/main/Vis%C3%A3o%20Geral.JPG)
 
 ### Página 2: Análise de Clientes
 ![Análise de Clientes](images/analise_clientes.png)
