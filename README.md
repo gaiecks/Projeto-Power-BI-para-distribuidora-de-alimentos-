@@ -25,7 +25,7 @@ O intuito da primeira página é apresentar as principais informações que vão
 Aqui, foi desenvolvido um sistema de análise de cesta de compras que consegue relacionar produtos e demonstrar a frequência de saída conjunta dos produtos em pedidos. Essa análise é importante para saber quais produtos costumam ser vendidos em conjunto no mesmo pedido, auxiliando em estratégias de marketing e vendas para aumentar o ticke médio.
 
 ### Página 3: Análise de Pedidos
-![Performance de Produtos](images/performance_produtos.png)
+![Performance de Produtos](https://github.com/gaiecks/Projeto-Power-BI-para-distribuidora-de-alimentos-/blob/main/An%C3%A1lise%20quantidade%20de%20pedidos.JPG)
 
 Esta é uma página de controle para contabilizar o número de pedidos entre determinadas faixas de faturamento. O destaque é para a interface interativa que permite digitar o intervalo desejado para contagem, além dos cards com informações pré-determinadas. 
 
