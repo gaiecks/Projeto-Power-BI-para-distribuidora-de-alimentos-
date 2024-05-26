@@ -39,7 +39,7 @@ Os principais insights fornecidos pelo dashboard incluem:
 
 ## Documentação Completa
 
-Para uma explicação completa do projeto, consulte o [documento PDF](link-para-o-pdf).
+Para uma explicação completa do projeto, consulte o [documento PDF](https://github.com/gaiecks/Projeto-Power-BI-para-distribuidora-de-alimentos-/blob/main/Relat%C3%B3rio%20sobre%20o%20Power%20BI%20-%20distribuidora%20de%20alimentos.pdf)
 
 ## Conclusão
 
