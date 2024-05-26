@@ -1,6 +1,6 @@
 # Dashboard Power BI para Análise de Dados de ERP
 
-Este projeto demonstra a criação de um dashboard no Power BI a partir de dados extraídos em Excel de um sistema ERP desorganizado. O processo inclui a limpeza e transformação dos dados no Power Query e a criação de visualizações que fornecem insights importantes para a tomada de decisões.
+Este projeto demonstra a criação de um dashboard no Power BI a partir de dados extraídos em Excel de um sistema ERP desorganizado. O processo inclui a limpeza e transformação dos dados no Power Query e a criação de visualizações que fornecem insights importantes para a tomada de decisões. Para manter a confidencialidade dos dados, os nomes dos clientes e vendedores foram substituídos por nomes fakes gerados por um programa em **Python**. O logo e nome da empresa foram retirados das visualizações do projeto. A base de dados foi reduzida e não representa valores reais. 
 
 ## Visão Geral
 
