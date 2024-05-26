@@ -20,7 +20,7 @@ Inclui etapas detalhadas de limpeza, manipulação dos dados e criação de colu
 O intuito da primeira página é apresentar as principais informações que vão ser utilizadas no dia a dia para gerenciamento do negócio e tomada de decisão. 
 
 ### Página 2: Análise de Cesta de Compras
-[![Análise de Cesta de Compras](images/analise_clientes.png)](https://github.com/gaiecks/Projeto-Power-BI-para-distribuidora-de-alimentos-/blob/main/An%C3%A1lise%20Cesta%20de%20Compras.JPG)
+![Análise de Cesta de Compras](images/analise_clientes.png)](https://github.com/gaiecks/Projeto-Power-BI-para-distribuidora-de-alimentos-/blob/main/An%C3%A1lise%20Cesta%20de%20Compras.JPG)
 
 Aqui, foi desenvolvido um sistema de análise de cesta de compras que consegue relacionar produtos e demonstrar a frequência de saída conjunta dos produtos em pedidos. Essa análise é importante para saber quais produtos costumam ser vendidos em conjunto no mesmo pedido, auxiliando em estratégias de marketing e vendas para aumentar o ticke médio.
 
