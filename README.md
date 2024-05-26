@@ -15,7 +15,7 @@ Inclui etapas detalhadas de limpeza, junção de tabelas e criação de colunas 
 ## Visualizações do Dashboard
 
 ### Página 1: Página Principal
-![Resumo de Vendas](images/resumo_vendas.png)
+![Resumo de Vendas](Visão Geral.JPG)
 
 ### Página 2: Análise de Clientes
 ![Análise de Clientes](images/analise_clientes.png)
